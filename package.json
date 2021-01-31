@@ -1,0 +1,23 @@
+{
+  "name": "todofinder",
+  "version": "1.0.0",
+  "description": "A programe to list all the files which contain a word todo",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd main && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jointoavinash/todofinder.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Avinash Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jointoavinash/todofinder/issues"
+  },
+  "homepage": "https://github.com/jointoavinash/todofinder#readme"
+}
